@@ -1,0 +1,4 @@
+{"question":"Who was the first president?","answer":"George Washington"}
+{"question":"Who was the first president?","answer":"George Washington"}
+{"question":"What is the capitol of the USA?","answer":"Washington D.C."}
+{"front":"cake","back":"owindf"}
